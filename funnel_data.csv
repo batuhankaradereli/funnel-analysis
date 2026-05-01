@@ -1,0 +1,6 @@
+stage,users,drop_off_rate,conversion_rate
+App Install,10000,,100.0
+Registration,6500,-35.0,65.0
+Onboarding,4200,-35.4,42.0
+First Purchase,1800,-57.099999999999994,18.0
+Repeat Purchase,750,-58.3,7.5
